@@ -1,5 +1,7 @@
 # Enkapsulasi
-Hasil Output dari
+Assalamualaikum Wr. Wb.
+
+Saya akan memberikan hasil Output dari
 
 Latihan 1
 ![Screenshot (132)](https://user-images.githubusercontent.com/101534192/163515202-596e8334-ec8e-402a-86a8-522a6bad06d0.png)
@@ -18,3 +20,5 @@ Praktikum 1
 
 Praktikum 2
 ![Screenshot (137)](https://user-images.githubusercontent.com/101534192/163515589-e86e5030-b996-4155-a694-62319b7cd519.png)
+
+Terimakasih. Wassalammualaikum Wr. Wb.
